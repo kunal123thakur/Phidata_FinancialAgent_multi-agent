@@ -2,6 +2,8 @@ Here’s a `README.md` that explains your project, making it easy for you to rev
 
 ---
 ![alt text](<Screenshot 2025-03-29 161719.png>)
+![Screenshot 2025-01-24 182325](https://github.com/user-attachments/assets/6bec385f-8ca5-42c3-8012-3ff79ffe9113)
+
 
 # AI Agent-Based Project
 
